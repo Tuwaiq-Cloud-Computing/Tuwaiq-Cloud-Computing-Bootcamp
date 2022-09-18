@@ -1,4 +1,4 @@
-# ReactJS Web Development Bootcamp 4-Weeks 
+# Tuwaiq-Cloud-Computing-Bootcamp
 Hi Everyone, Welcome to cloud computing bootcamp. This repository contains informations, labs, homeworks, projects specific to your course.
 
 ## Schedule
