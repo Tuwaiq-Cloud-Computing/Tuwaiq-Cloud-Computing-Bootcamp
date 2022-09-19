@@ -89,8 +89,8 @@ Hi Everyone, Welcome to cloud computing bootcamp. This repository contains infor
 
 | Week | Day | Lap | HomeWork |
 |:----:|:---:|:---:|:--------:|
-| Week1| 1   |[Lab](https://github.com/Tuwaiq-Cloud-Computing/Py-variables-1)
-| Week1| 2   |[Lab](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)|[HW](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)
+| Week1| 1   |[Lab](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)|[HW](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)
+| Week1| 2   |[Lab](https://github.com/Tuwaiq-Cloud-Computing/Py-variables-1)|[HW](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)
 | Week1| 3   |[Lab](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)|[HW](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)
 | Week1| 4   |[Lab](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)|[HW](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)
 | Week1| 5   |[Lab](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)|[HW](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)
