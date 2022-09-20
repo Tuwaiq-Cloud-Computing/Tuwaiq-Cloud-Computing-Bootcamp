@@ -84,39 +84,3 @@ Hi Everyone, Welcome to cloud computing bootcamp. This repository contains infor
 * Ask questions.
 * Be supportive.
 * Talk to us
-
-
-
-| Week | Day | Lap | HomeWork |
-|:----:|:---:|:---:|:--------:|
-| Week1| 1   |[Lab](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)|[HW](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)
-| Week1| 2   |[Lab](https://github.com/Tuwaiq-Cloud-Computing/Py-variables-lab)|[HW](https://github.com/Tuwaiq-Cloud-Computing/Py-variables-hw)
-| Week1| 3   |[Lab](https://github.com/Tuwaiq-Cloud-Computing/Py-datatypes-lab)|[HW](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)
-| Week1| 4   |[Lab](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)|[HW](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)
-| Week1| 5   |[Lab](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)|[HW](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)
-| Week2| 1   |[Lab](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)|[HW](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)
-| Week2| 2   |[Lab](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)|[HW](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)
-| Week2| 3   |[Lab](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)|[HW](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)
-| Week2| 4   |[Lab](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)|[HW](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)
-| Week2| 5   |[Lab](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)|[HW](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)
-| Week3| 1   |[Lab](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)|[HW](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)
-| Week3| 2   |[Lab](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)|[HW](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)
-| Week3| 3   |[Lab](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)|[HW](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)
-| Week3| 4   |[Lab](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)|[HW](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)
-| Week3| 5   |[Lab](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)|[HW](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)
-| Week4| 1   |[Lab](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)|[HW](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)
-| Week4| 2   |[Lab](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)|[HW](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)
-| Week4| 3   |[Lab](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)|[HW](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)
-| Week4| 4   |[Lab](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)|[HW](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)
-| Week4| 5   |[Lab](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)|[HW](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)
-| Week5| 1   |[Lab](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)|[HW](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)
-| Week5| 2   |[Lab](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)|[HW](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)
-| Week5| 3   |[Lab](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)|[HW](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)
-| Week5| 4   |[Lab](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)|[HW](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)
-| Week5| 5   |[Lab](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)|[HW](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)
-| Week6| 1   |[Lab](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)|[HW](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)
-| Week6| 2   |[Lab](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)|[HW](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)
-| Week6| 3   |[Lab](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)|[HW](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)
-| Week6| 4   |[Lab](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)|[HW](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)
-| Week6| 5   |[Lab](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)|[HW](https://github.com/Tuwaiq-Cloud-Computing/Tuwaiq-Cloud-Computing-Bootcamp)
-
