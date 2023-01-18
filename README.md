@@ -4,7 +4,7 @@ Hi Everyone, Welcome to cloud computing bootcamp. This repository contains infor
 ## Schedule
 |  | Days | Time |
 | --- | ------------- | ------------- |
-| Class | Sun - Thurs  | 10am - 4pm  |
+| Class | Sun - Thurs  | 4pm - 9pm  |
 
 
 
